@@ -1,14 +1,29 @@
 body{
     background-color: bisque;
-    padding: auto;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 h1{
     color: rgb(166, 255, 0);
     height: max-content;
-    font: inherit;
+    font-size: 40px;
+
 }
-main{
-    background-color: aquamarine;
-    height: max-content;
+
+form{
+    background-color: rgb(245, 14, 14);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px
+    rgba(0,0, 0, 0.1);
+    width: 400px;
+    margin-right: auto;
+    max-width: 100%;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
 }
