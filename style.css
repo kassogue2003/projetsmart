@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+    padding: auto;
+
+}
+h1{
+    color: rgb(166, 255, 0);
+    height: max-content;
+    font: inherit;
+}
+main{
+    background-color: aquamarine;
+    height: max-content;
+}
